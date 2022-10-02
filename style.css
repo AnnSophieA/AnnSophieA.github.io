@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-color: #EADDCA;
-    text-align: left;
+    text-align: center;
 }
 .italic {
     /* font-style: italic; */
@@ -10,4 +10,5 @@ body {
 }
 .description {
     font-family: monospace;
+    text-align: left;
 }
