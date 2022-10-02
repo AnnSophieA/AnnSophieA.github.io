@@ -9,6 +9,11 @@ body {
     text-align: center;
     font-family: DejaVu Sans Mono, monospace;
 }
+.about_me{
+    font-family: DejaVu Sans Mono, monospace;
+    font-weight: bold;
+    text-align: left;
+}
 .description {
     font-family: monospace;
     text-align: left;
