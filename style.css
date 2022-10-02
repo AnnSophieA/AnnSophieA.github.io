@@ -1,8 +1,12 @@
 body {
     margin: 0;
-    background: #e6d1f2;
-    text-align: center;
+    background: #EADDCA;
+    /* text-align: center; */
 }
 .italic {
     font-style: italic;
+    font-family: DejaVu Sans Mono, monospace;
+}
+.description {
+    font-family: monospace;
 }
