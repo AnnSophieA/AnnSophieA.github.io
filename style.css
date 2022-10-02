@@ -13,6 +13,7 @@ body {
     font-weight: bold;
     font-family: monospace;
     text-align: left;
+    text-decoration: underline;
 }
 .description {
     font-family: monospace;
