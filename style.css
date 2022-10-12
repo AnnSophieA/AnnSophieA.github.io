@@ -22,5 +22,5 @@ body {
 .imgs {
     max-height: 50px;
     max-width: auto;
-    float: right;
+    /* float: right; */
 }
