@@ -19,3 +19,8 @@ body {
     font-family: monospace;
     text-align: left;
 }
+.img {
+    height: 200px;
+    width: 200px;
+    float: right;
+}
