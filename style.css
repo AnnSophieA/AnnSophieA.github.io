@@ -19,8 +19,8 @@ body {
     font-family: monospace;
     text-align: left;
 }
-.imgs {
+/* .imgs {
     max-height: 50px;
     max-width: auto;
     /* float: right; */
-}
+/* }
